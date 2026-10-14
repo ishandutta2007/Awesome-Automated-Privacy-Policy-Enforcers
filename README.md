@@ -77,75 +77,75 @@ The following enterprise platforms deliver turnkey hosted privacy infrastructure
 
 Open-source implementations enable complete data residency, deterministic PII masking, and vendor-independent privacy engineering.
 
-> *Ranked in descending order by GitHub Star count.*
+> *Ranked in descending order by GitHub Stars_Count.*
 
-### 1. **[Presidio](https://github.com/data-privacy-stack/presidio)** (Data Privacy Stack / Microsoft) [![GitHub stars](https://img.shields.io/github/stars/data-privacy-stack/presidio?style=social&color=white)](https://github.com/data-privacy-stack/presidio/stargazers)
+### 1. **[Presidio](https://github.com/data-privacy-stack/presidio)** (Data Privacy Stack / Microsoft) [![GitHub_Stars](https://img.shields.io/github/stars/data-privacy-stack/presidio?style=social&color=white)](https://github.com/data-privacy-stack/presidio/stargazers)
 Context-aware, customizable PII detection, redaction, and de-identification SDK and REST API for text, images, and structured data. Utilizes pre-trained NER models (spaCy/transformers) and customizable pattern recognizers with reversible masking capabilities.
 
-### 2. **[PySyft](https://github.com/OpenMined/PySyft)** (OpenMined) [![GitHub stars](https://img.shields.io/github/stars/OpenMined/PySyft?style=social&color=white)](https://github.com/OpenMined/PySyft/stargazers)
+### 2. **[PySyft](https://github.com/OpenMined/PySyft)** (OpenMined) [![GitHub_Stars](https://img.shields.io/github/stars/OpenMined/PySyft?style=social&color=white)](https://github.com/OpenMined/PySyft/stargazers)
 Flagship open-source framework for privacy-preserving decentralized AI, enabling secure computation across distributed data owners using differential privacy, federated learning, and encrypted computation without exposing underlying data.
 
-### 3. **[Guardrails AI](https://github.com/guardrails-ai/guardrails)** (Guardrails AI) [![GitHub stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social&color=white)](https://github.com/guardrails-ai/guardrails/stargazers)
+### 3. **[Guardrails AI](https://github.com/guardrails-ai/guardrails)** (Guardrails AI) [![GitHub_Stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social&color=white)](https://github.com/guardrails-ai/guardrails/stargazers)
 Runtime guardrails framework for LLMs enforcing privacy policies, PII filtering/masking, toxicity checks, structured outputs, and compliance rules directly on prompts and model responses.
 
-### 4. **[Amundsen](https://github.com/amundsen-io/amundsen)** (Amundsen IO) [![GitHub stars](https://img.shields.io/github/stars/amundsen-io/amundsen?style=social&color=white)](https://github.com/amundsen-io/amundsen/stargazers)
+### 4. **[Amundsen](https://github.com/amundsen-io/amundsen)** (Amundsen IO) [![GitHub_Stars](https://img.shields.io/github/stars/amundsen-io/amundsen?style=social&color=white)](https://github.com/amundsen-io/amundsen/stargazers)
 Data discovery and metadata engine that indexes enterprise data assets, automates data privacy tagging (PII classification), tracks lineage, and enforces compliance policies across enterprise data stacks.
 
-### 5. **[Purple Llama](https://github.com/meta-llama/PurpleLlama)** (Meta) [![GitHub stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?style=social&color=white)](https://github.com/meta-llama/PurpleLlama/stargazers)
+### 5. **[Purple Llama](https://github.com/meta-llama/PurpleLlama)** (Meta) [![GitHub_Stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?style=social&color=white)](https://github.com/meta-llama/PurpleLlama/stargazers)
 Open-source trust, safety, and privacy evaluation tools, including Llama Guard and cybersecurity benchmarks, to prevent data leaks and enforce privacy boundaries in generative AI applications.
 
-### 6. **[Google Differential Privacy](https://github.com/google/differential-privacy)** (Google) [![GitHub stars](https://img.shields.io/github/stars/google/differential-privacy?style=social&color=white)](https://github.com/google/differential-privacy/stargazers)
+### 6. **[Google Differential Privacy](https://github.com/google/differential-privacy)** (Google) [![GitHub_Stars](https://img.shields.io/github/stars/google/differential-privacy?style=social&color=white)](https://github.com/google/differential-privacy/stargazers)
 Production-grade differential privacy libraries (C++, Go, Java, Python) implementing mathematically verified privacy guarantees for dataset aggregation, statistical queries, and machine learning pipelines.
 
-### 7. **[Probo](https://github.com/getprobo/probo)** (Probo Inc.) [![GitHub stars](https://img.shields.io/github/stars/getprobo/probo?style=social&color=white)](https://github.com/getprobo/probo/stargazers)
+### 7. **[Probo](https://github.com/getprobo/probo)** (Probo Inc.) [![GitHub_Stars](https://img.shields.io/github/stars/getprobo/probo?style=social&color=white)](https://github.com/getprobo/probo/stargazers)
 Self-hostable, modern open-source GRC platform featuring 270+ Model Context Protocol (MCP) tools for LLM agent integration, complete with DPIA/TIA workflows, automated data privacy rights handling, and policy-based access control.
 
-### 8. **[Apache Ranger](https://github.com/apache/ranger)** (Apache Software Foundation) [![GitHub stars](https://img.shields.io/github/stars/apache/ranger?style=social&color=white)](https://github.com/apache/ranger/stargazers)
+### 8. **[Apache Ranger](https://github.com/apache/ranger)** (Apache Software Foundation) [![GitHub_Stars](https://img.shields.io/github/stars/apache/ranger?style=social&color=white)](https://github.com/apache/ranger/stargazers)
 Centralized enterprise security and governance framework providing fine-grained access control, dynamic column masking, row-level filtering, and audit logging across distributed Hadoop and cloud data environments.
 
-### 9. **[Diffprivlib](https://github.com/IBM/differential-privacy-library)** (IBM Research) [![GitHub stars](https://img.shields.io/github/stars/IBM/differential-privacy-library?style=social&color=white)](https://github.com/IBM/differential-privacy-library/stargazers)
+### 9. **[Diffprivlib](https://github.com/IBM/differential-privacy-library)** (IBM Research) [![GitHub_Stars](https://img.shields.io/github/stars/IBM/differential-privacy-library?style=social&color=white)](https://github.com/IBM/differential-privacy-library/stargazers)
 General-purpose Python library for differential privacy in machine learning and data analytics, providing privacy-preserving Scikit-learn estimators, mechanisms, and evaluation metrics.
 
-### 10. **[ARX De-Identifier](https://github.com/arx-deidentifier/arx)** (ARX Project) [![GitHub stars](https://img.shields.io/github/stars/arx-deidentifier/arx?style=social&color=white)](https://github.com/arx-deidentifier/arx/stargazers)
+### 10. **[ARX De-Identifier](https://github.com/arx-deidentifier/arx)** (ARX Project) [![GitHub_Stars](https://img.shields.io/github/stars/arx-deidentifier/arx?style=social&color=white)](https://github.com/arx-deidentifier/arx/stargazers)
 Comprehensive anonymization suite supporting state-of-the-art privacy models including k-anonymity, l-diversity, t-closeness, and differential privacy for sensitive structured datasets and clinical research data.
 
-### 11. **[Gretel Synthetics](https://github.com/gretelai/gretel-synthetics)** (Gretel AI) [![GitHub stars](https://img.shields.io/github/stars/gretelai/gretel-synthetics?style=social&color=white)](https://github.com/gretelai/gretel-synthetics/stargazers)
+### 11. **[Gretel Synthetics](https://github.com/gretelai/gretel-synthetics)** (Gretel AI) [![GitHub_Stars](https://img.shields.io/github/stars/gretelai/gretel-synthetics?style=social&color=white)](https://github.com/gretelai/gretel-synthetics/stargazers)
 Differential-privacy-backed synthetic data generation library that creates statistically valid, PII-free synthetic tabular data and text to safely replace production personal data in dev/testing pipelines.
 
-### 12. **[Privado](https://github.com/Privado-Inc/privado)** (Privado) [![GitHub stars](https://img.shields.io/github/stars/Privado-Inc/privado?style=social&color=white)](https://github.com/Privado-Inc/privado/stargazers)
+### 12. **[Privado](https://github.com/Privado-Inc/privado)** (Privado) [![GitHub_Stars](https://img.shields.io/github/stars/Privado-Inc/privado?style=social&color=white)](https://github.com/Privado-Inc/privado/stargazers)
 Developer-focused privacy static code analysis (SAST) tool that inspects codebases to track personal data flows, detect privacy vulnerabilities, generate data maps, and enforce privacy policies in CI/CD before code merges.
 
-### 13. **[Fides](https://github.com/ethyca/fides)** (Ethyca) [![GitHub stars](https://img.shields.io/github/stars/ethyca/fides?style=social&color=white)](https://github.com/ethyca/fides/stargazers)
+### 13. **[Fides](https://github.com/ethyca/fides)** (Ethyca) [![GitHub_Stars](https://img.shields.io/github/stars/ethyca/fides?style=social&color=white)](https://github.com/ethyca/fides/stargazers)
 Open-source "Privacy-as-Code" platform (Apache-2.0) that enables engineering teams to define privacy declarations in YAML, orchestrate live DSRs (access/erasure), and automate runtime consent across relational and NoSQL databases.
 
-### 14. **[OpenDP](https://github.com/opendp/opendp)** (Harvard & Microsoft) [![GitHub stars](https://img.shields.io/github/stars/opendp/opendp?style=social&color=white)](https://github.com/opendp/opendp/stargazers)
+### 14. **[OpenDP](https://github.com/opendp/opendp)** (Harvard & Microsoft) [![GitHub_Stars](https://img.shields.io/github/stars/opendp/opendp?style=social&color=white)](https://github.com/opendp/opendp/stargazers)
 Community-driven library providing mathematically certified differential privacy building blocks in Rust and Python for privacy-preserving statistical research and data science.
 
-### 15. **[Pryv.io](https://github.com/pryv/open-pryv.io)** (Pryv) [![GitHub stars](https://img.shields.io/github/stars/pryv/open-pryv.io?style=social&color=white)](https://github.com/pryv/open-pryv.io/stargazers)
+### 15. **[Pryv.io](https://github.com/pryv/open-pryv.io)** (Pryv) [![GitHub_Stars](https://img.shields.io/github/stars/pryv/open-pryv.io?style=social&color=white)](https://github.com/pryv/open-pryv.io/stargazers)
 Turnkey open-source personal data management and consent backend engineered for regulatory compliance (GDPR/Swiss DPA), featuring auditable consent tracking and encrypted data streams.
 
-### 16. **[Eunomia](https://github.com/whataboutyou-ai/eunomia)** (WhatAboutYou AI) [![GitHub stars](https://img.shields.io/github/stars/whataboutyou-ai/eunomia?style=social&color=white)](https://github.com/whataboutyou-ai/eunomia/stargazers)
+### 16. **[Eunomia](https://github.com/whataboutyou-ai/eunomia)** (WhatAboutYou AI) [![GitHub_Stars](https://img.shields.io/github/stars/whataboutyou-ai/eunomia?style=social&color=white)](https://github.com/whataboutyou-ai/eunomia/stargazers)
 Token-level data governance framework for LLM-based applications and AI agents, offering modular instruments (such as `PiiInstrument`) to intercept, redact, or replace sensitive tokens prior to model inference.
 
-### 17. **[OpenOptOut](https://github.com/rlnunez/OpenOptOut)** (RL Nunez) [![GitHub stars](https://img.shields.io/github/stars/rlnunez/OpenOptOut?style=social&color=white)](https://github.com/rlnunez/OpenOptOut/stargazers)
+### 17. **[OpenOptOut](https://github.com/rlnunez/OpenOptOut)** (RL Nunez) [![GitHub_Stars](https://img.shields.io/github/stars/rlnunez/OpenOptOut?style=social&color=white)](https://github.com/rlnunez/OpenOptOut/stargazers)
 Self-hosted, distributed platform automating personal data removal requests to data brokers using zero-knowledge identity vaults and multi-tenant consortium routing.
 
-### 18. **[ODRE Framework](https://github.com/ODRE-Framework/odre-framework)** (ODRE Project) [![GitHub stars](https://img.shields.io/github/stars/ODRE-Framework/odre-framework?style=social&color=white)](https://github.com/ODRE-Framework/odre-framework/stargazers)
+### 18. **[ODRE Framework](https://github.com/ODRE-Framework/odre-framework)** (ODRE Project) [![GitHub_Stars](https://img.shields.io/github/stars/ODRE-Framework/odre-framework?style=social&color=white)](https://github.com/ODRE-Framework/odre-framework/stargazers)
 Open Digital Rights Enforcement framework leveraging the W3C ODRL specification to define and enforce decentralized privacy and data-sharing policies across open data spaces.
 
-### 19. **[Membrane](https://github.com/rishabh-oberoi/membrane-ai)** (Rishabh Oberoi) [![GitHub stars](https://img.shields.io/github/stars/rishabh-oberoi/membrane-ai?style=social&color=white)](https://github.com/rishabh-oberoi/membrane-ai/stargazers)
+### 19. **[Membrane](https://github.com/rishabh-oberoi/membrane-ai)** (Rishabh Oberoi) [![GitHub_Stars](https://img.shields.io/github/stars/rishabh-oberoi/membrane-ai?style=social&color=white)](https://github.com/rishabh-oberoi/membrane-ai/stargazers)
 Zero-trust local privacy SDK that intercepts LLM prompts, deterministically masks PII locally, and reconstructs original entities from model responses, even under heavy semantic paraphrasing.
 
-### 20. **[Prompt Redaction Studio](https://github.com/Bhairav-Pardiwala/PromptRedactionStudio)** (Bhairav Pardiwala) [![GitHub stars](https://img.shields.io/github/stars/Bhairav-Pardiwala/PromptRedactionStudio?style=social&color=white)](https://github.com/Bhairav-Pardiwala/PromptRedactionStudio/stargazers)
+### 20. **[Prompt Redaction Studio](https://github.com/Bhairav-Pardiwala/PromptRedactionStudio)** (Bhairav Pardiwala) [![GitHub_Stars](https://img.shields.io/github/stars/Bhairav-Pardiwala/PromptRedactionStudio?style=social&color=white)](https://github.com/Bhairav-Pardiwala/PromptRedactionStudio/stargazers)
 Self-hosted, zero-egress PII redaction application utilizing Microsoft Presidio with in-memory-only reversible mapping tokens to ensure no sensitive text touches persistent storage or external APIs.
 
-### 21. **[pii-masker-ai](https://github.com/lui01212/pii-masker-ai)** (Lui01212) [![GitHub stars](https://img.shields.io/github/stars/lui01212/pii-masker-ai?style=social&color=white)](https://github.com/lui01212/pii-masker-ai/stargazers)
+### 21. **[pii-masker-ai](https://github.com/lui01212/pii-masker-ai)** (Lui01212) [![GitHub_Stars](https://img.shields.io/github/stars/lui01212/pii-masker-ai?style=social&color=white)](https://github.com/lui01212/pii-masker-ai/stargazers)
 Ultra-fast, zero-dependency reversible PII masking library and CLI scanner for CI/CD pre-commit pipelines, featuring Luhn credit-card validation and sequential reversible tokens.
 
-### 22. **[promptcloak](https://github.com/ezequiel0822-netizen/promptcloak)** (Ezequiel Netizen) [![GitHub stars](https://img.shields.io/github/stars/ezequiel0822-netizen/promptcloak?style=social&color=white)](https://github.com/ezequiel0822-netizen/promptcloak/stargazers)
+### 22. **[promptcloak](https://github.com/ezequiel0822-netizen/promptcloak)** (Ezequiel Netizen) [![GitHub_Stars](https://img.shields.io/github/stars/ezequiel0822-netizen/promptcloak?style=social&color=white)](https://github.com/ezequiel0822-netizen/promptcloak/stargazers)
 Lightweight, zero-dependency secret and token sanitizer with Shannon entropy scanning to catch undocumented API keys and private data before prompt dispatch.
 
-### 23. **[ODGS MCP Server](https://github.com/MetricProvenance/odgs-mcp-server)** (MetricProvenance) [![GitHub stars](https://img.shields.io/github/stars/MetricProvenance/odgs-mcp-server?style=social&color=white)](https://github.com/MetricProvenance/odgs-mcp-server/stargazers)
+### 23. **[ODGS MCP Server](https://github.com/MetricProvenance/odgs-mcp-server)** (MetricProvenance) [![GitHub_Stars](https://img.shields.io/github/stars/MetricProvenance/odgs-mcp-server?style=social&color=white)](https://github.com/MetricProvenance/odgs-mcp-server/stargazers)
 AI agent boundary governance server connecting to the ODGS Sovereign Validation Engine to evaluate data operations and output cryptographically signed compliance certificates (S-Certs).
 
 ---
@@ -195,7 +195,7 @@ We welcome community contributions! To add a new platform or open-source tool:
 1. 🍴 **Fork the repository**.
 2. 📝 **Add your entry** under the appropriate section:
    - For **SaaS platforms**: Include platform name, company size (valuation/revenue), starting tier price, and specific free tier / trial duration and limits.
-   - For **Open-source projects**: Include GitHub repository link, star badge (`style=social&color=white`), and a concise description of its privacy capabilities. Maintain star-count sorting order!
+   - For **Open-source projects**: Include GitHub repository link, Stars_Badge (`style=social&color=white`), and a concise description of its privacy capabilities. Maintain star-count sorting order!
 3. 🚀 **Submit a Pull Request** with a clear explanation of the tool's relevance to automated privacy policy enforcement.
 
 ---
